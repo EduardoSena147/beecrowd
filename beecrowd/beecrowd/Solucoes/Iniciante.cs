@@ -28,5 +28,20 @@ namespace beecrowd.Solucoes
 			double area = n * (raio * raio);
 			Console.WriteLine("A=" + area.ToString("0.0000"));
 		}
+
+		public void s1003()
+		{
+			int A = Convert.ToInt32(Console.ReadLine());
+			int B = Convert.ToInt32(Console.ReadLine());
+			int X = A + B;
+			Console.WriteLine("SOMA = " + X.ToString());
+		}
+
+		public void s1004()
+		{
+			int PROD = Convert.ToInt32(Console.ReadLine());
+			PROD *= Convert.ToInt32(Console.ReadLine());
+			Console.WriteLine("PROD = " + PROD.ToString());
+		}
 	}
 }

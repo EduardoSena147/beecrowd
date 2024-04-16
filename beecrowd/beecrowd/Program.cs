@@ -13,7 +13,7 @@ namespace beecrowd
 
 			Iniciante solIni = new Iniciante();
 
-			solIni.s1002();
+			solIni.s1004();
 		}
 	}
 }
