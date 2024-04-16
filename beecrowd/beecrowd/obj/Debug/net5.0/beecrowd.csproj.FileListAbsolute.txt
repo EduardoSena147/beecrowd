@@ -1,0 +1,16 @@
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.exe
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.deps.json
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.runtimeconfig.json
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.runtimeconfig.dev.json
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.dll
+X:\projetos\git\beecrowd\beecrowd\beecrowd\bin\Debug\net5.0\beecrowd.pdb
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.AssemblyInfoInputs.cache
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.AssemblyInfo.cs
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.csproj.CoreCompileInputs.cache
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.sourcelink.json
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.dll
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\refint\beecrowd.dll
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.pdb
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\beecrowd.genruntimeconfig.cache
+X:\projetos\git\beecrowd\beecrowd\beecrowd\obj\Debug\net5.0\ref\beecrowd.dll
